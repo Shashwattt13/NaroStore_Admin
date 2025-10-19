@@ -1,4 +1,4 @@
-#🛍️ NaroStore Admin Panel
+# 🛍️ NaroStore Admin Panel
 Professional **Admin Dashboard** for NaroStore, a Gen Z fashion store. Manage products, users, orders, reviews, and settings with a modern, responsive interface built using **React**, **Vite**, and **Tailwind CSS**.
 
 ---
